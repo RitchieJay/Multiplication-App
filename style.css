@@ -28,7 +28,7 @@ form {
     color: green;
 }
 
-.input::placeholder{
+.input::placeholder {
     color: lightgray;
     font-family: cursive;
 }
